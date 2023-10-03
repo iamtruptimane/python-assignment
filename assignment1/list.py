@@ -20,7 +20,7 @@ def func1():
     
     print(list_1)
 
-#func1()
+func1()
 
 def func2():
     list_1=[]

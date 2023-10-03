@@ -1,5 +1,6 @@
 def func1():
     list_1=[10,20,30,40,50,60,70,80,90,100]
+    #list_1=int(input("enter a list:"))
     
     print(list_1)
     
