@@ -18,16 +18,5 @@ def reverse_list1():
     
 reverse_list1()   
 
-leftsum = 0
-        start = 0
-        arr=[]
 
-        for num in nums[start:3]:
-            if 
-            leftsum = leftsum + num
-            print(leftsum)
-            arr.append(leftsum)
-        return arr         
-        
-    
            
