@@ -3,7 +3,8 @@ def reverse_order1(): #using slicing
     
     for i in list1[::-1]:
         print(i)
-#reverse_order() 
+    print("*" * 20)
+reverse_order1() 
 
 def reverse_order2(): # using reversed()
     list1 =  [10, 20, 30, 40, 50]
@@ -12,7 +13,8 @@ def reverse_order2(): # using reversed()
     
     for i in list1:
         print(i)
-#reverse_order2()
+    print("*" * 20)   
+reverse_order2()
 
 def reverse_order3(): # using len()
     list1 =  [10, 20, 30, 40, 50]
@@ -22,6 +24,7 @@ def reverse_order3(): # using len()
     
     for i in range(size,-1,-1):
         print(list1[i])
+    print("*" * 20)    
 reverse_order3()    
     
 
