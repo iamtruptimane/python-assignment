@@ -5,8 +5,9 @@ def print_pattern():
     for i in range(1, row + 1):
         for j in range(1, i + 1 ):
             print(j, end = " " )
-        print("")    
-#print_pattern() 
+        print("") 
+           
+print_pattern() 
 
 def print_pattern_reverse():
     n = 5
@@ -29,7 +30,7 @@ def print_design():
             print("*", end = " ")
         print("\r")
         
-#print_design()
+print_design()
 
 def print_table_chart():
     
