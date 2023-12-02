@@ -15,4 +15,6 @@ def factorial_of_num():
             fact = fact * i
         print(fact)
         
-factorial_of_num()        
+factorial_of_num()   
+
+     
